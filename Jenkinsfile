@@ -65,7 +65,7 @@ node {
                 //sfdx force:source:deploy --sourcepath c:\projects_sfdx\jenkins2\force-app\main\default\classes\AccountController.cls
 
                 //sfdx force:source:deploy --manifest c:\projects_sfdx\jenkins2\manifest\package.xml
-                rmsg = bat returnStdout: true, script: "\"${toolbelt}\" force:source:deploy --manifest manifest/package.xml -u ${HUB_ORG}"
+                rmsg = bat returnStdout: true, script: "\"${toolbelt}\" force:source:deploy --manifest manifest\package.xml -u ${HUB_ORG}"
 				
 			println('AI-1')	
 			}
