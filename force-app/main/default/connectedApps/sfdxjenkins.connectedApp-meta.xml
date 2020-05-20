@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>replyami@yahoo.com</contactEmail>
+    <contactPhone>07591586211</contactPhone>
+    <label>sfdxjenkins</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>MIIDljCCAn4CCQDC1B6NOUw+szANBgkqhkiG9w0BAQsFADCBjDELMAkGA1UEBhMCdWsxDjAMBgNVBAgTBWVzc2V4MQ8wDQYDVQQHEwZsb25kb24xGTAXBgNVBAoTEHNvZnRlY2htZWRpYSBsdGQxCzAJBgNVBAsTAml0MREwDwYDVQQDEwhhc2xhbW9yZzEhMB8GCSqGSIb3DQEJARYScmVwbHlhbWlAeWFob28uY29tMB4XDTIwMDQyMTIxNTA0MFoXDTIxMDQyMTIxNTA0MFowgYwxCzAJBgNVBAYTAnVrMQ4wDAYDVQQIEwVlc3NleDEPMA0GA1UEBxMGbG9uZG9uMRkwFwYDVQQKExBzb2Z0ZWNobWVkaWEgbHRkMQswCQYDVQQLEwJpdDERMA8GA1UEAxMIYXNsYW1vcmcxITAfBgkqhkiG9w0BCQEWEnJlcGx5YW1pQHlhaG9vLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANOK4VIYBgUNZnD5PwMZ3w755C17raPZqaOWEhNmHJUKn0frLYMpcjYQTfKP02Dk8sUGyzEc3Tk5A30Wt5F+V9e6uVg7sg0z3CKVMW3LdDXfnoc8rX+z/tkiULjVjwDY/gFgz3SoWCfWoJyzD1zU02qZbJ26WlffdBpJed/RZA0mrnFRODcLSxki2PL7BMwu7wIFeynf8nFNNpfZsVpeh0YaoM8/dFnxFOXt/wxgjMwEFDhz0YnqJSIZ+Lk4ZDOomNNgDkmlkS4kU/E8fbkUYnFijFZpDF06gpEKXLN28+4HacHUJv4em2WdVll0xSwbMZJSomiyreoNVWnDHmznKQkCAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAtcFsnuG4Z30xjHou5u1sPhT+9vgpriCWKv1+iasGFJwVWaPdpsUFSJMGMtt8pyJJOy8ukkbcaMcxiwDKrGNOErXorsJStWIOx77BWg+1R9StUZAzLM8zczZPfGsj6uqYubT6DOyuQZM/PnDyTfhT1UGI9Zg4W7nPAz2oFXnijVPlTG4jI+v4RQcNPq6nwXMvEjhrlDsDMtTkV6PI4nsCMtoQ3o8dqNTAwBdIdeCazJEzHxbjuAQONJJcQz/mkWrylh0BEMfWtF49VoF+Uo+ogpeCZ60JPtdWEccoqsnJKuzG4YJPn6If2KqvoV5hrqvcfz0f54fGhhwTvjaw7meV1Q==</certificate>
+        <consumerKey>3MVG9xB_D1giir9ouqdpx6TLReWcAQWPD3aW8nDrOCME0tco5iZVtBXmrxipj.I4.bBDoLf9nvlLSB_MD1x9l</consumerKey>
+        <isAdminApproved>true</isAdminApproved>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+    <permissionSetName>sfdxjenkins</permissionSetName>
+</ConnectedApp>
